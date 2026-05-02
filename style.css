@@ -7,7 +7,7 @@ body {
 
 nav {
   background: #333;
-  padding: 10px;
+  padding: 20px;
 }
 
 nav ul {
@@ -17,8 +17,9 @@ nav ul {
 }
 
 nav ul li {
-  margin: 0 15px;
+  margin: 0 45px; /* aumenta a distância entre os itens */
 }
+
 
 nav ul li a {
   color: white;
@@ -39,7 +40,7 @@ section {
   margin-bottom: 20px;
 }
 
-#habilidades ul {
+.habilidades ul {
   list-style: none;
   padding: 0;
   display: flex;
@@ -56,20 +57,20 @@ section {
   transition: 0.3s;
 }
 
-#habilidades li:hover {
+.habilidades li:hover {
   background: #333;
   color: #fff;
   cursor: pointer;
 }
 
-#formacao ul {
+.formacao ul {
   list-style: none;
   padding: 0;
   max-width: 600px;
   margin: 0 auto;
 }
 
-#formacao li {
+.formacao li {
   background: #ddd;
   margin: 10px;
   padding: 12px;
