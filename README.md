@@ -25,6 +25,6 @@ Abra o arquivo `index.html` em qualquer navegador ou acesse via GitHub Pages (se
 ![Screenshot do projeto](foto.png)
 
 ##  Contato
-- Email: seuemail@exemplo.com  
-- LinkedIn: [Seu perfil](https://linkedin.com/in/seuusuario)  
+- Email: weulermg@hotmail.com  
+- LinkedIn: (https://www.linkedin.com/in/weuler-oliveira-vieira-068660328)  
 - GitHub: [Weuler007](https://github.com/Weuler007)
